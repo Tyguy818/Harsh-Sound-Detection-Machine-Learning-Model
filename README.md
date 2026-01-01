@@ -100,6 +100,6 @@ saved_models/
 
 ---
 
-> **📌 Tip:** If you're reproducing this notebook, mount your Google Drive and verify the dataset path before training begins.
+> **📌 Tip:** If you're reproducing this notebook, mount your Google Drive and verify the dataset path before training begins. If you're reproducing with the code on your local machine, make sure to modify the saved paths and imported paths accordingly.
 
-> ⚠️ Considering how much data we extracted, we unfortunately cannot upload created spectrograms.
+> ⚠️ Considering how much data we extracted, we unfortunately cannot upload all necessary folders to github. Access the necessary files from https://drive.google.com/drive/folders/1_Wv9Js7ZdlWR3Ad6CfixdKJPtaA1layj?usp=drive_link
